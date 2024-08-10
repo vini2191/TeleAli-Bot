@@ -4,8 +4,8 @@ import pandas as pd
 import emoji
 import time
 
-TOKEN = 'TOKEN AQUI'        # Adicionar Seu Token do BOT Aqui
-GRUPO_ID = -IDGROUP         # Adicionar o ID do grupo Aqui
+TOKEN = '7112611010:AAEkF7Wod8zJQogyVuHcdHnwTxFQAm7uH9I'        # Adicionar Seu Token do BOT Aqui
+GRUPO_ID = -1002190539837         # Adicionar o ID do grupo Aqui
 XLS_PATH = 'PATH'           # Adicionar o Caminho do Arquivo .xls baixado no ALI
 DELAY_BETWEEN_SHARES = 300  # Delay de 60 segundos (1 minuto)
 
